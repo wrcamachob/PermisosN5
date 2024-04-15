@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\PermissionsN5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94FCF222-F431-4418-9D67-C6DDCBABFD5A}|Domain\\Domain.csproj|c:\\users\\user\\source\\repos\\permissionsn5\\domain\\business\\permisosbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FCF222-F431-4418-9D67-C6DDCBABFD5A}|Domain\\Domain.csproj|solutionrelative:domain\\business\\permisosbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BE1A14-9929-42D2-B038-F78F48FEA7D3}|PermissionsN5\\PermissionsN5.csproj|c:\\users\\user\\source\\repos\\permissionsn5\\permissionsn5\\controllers\\permisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5BE1A14-9929-42D2-B038-F78F48FEA7D3}|PermissionsN5\\PermissionsN5.csproj|solutionrelative:permissionsn5\\controllers\\permisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC920FB1-F937-46EF-BF8A-DDD008D53C60}|Infrastructure\\Infrastructure.csproj|c:\\users\\user\\source\\repos\\permissionsn5\\infrastructure\\entities\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC920FB1-F937-46EF-BF8A-DDD008D53C60}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entities\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Permiso.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PermissionsN5\\Infrastructure\\Entities\\Permiso.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Entities\\Permiso.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PermissionsN5\\Infrastructure\\Entities\\Permiso.cs",
+              "RelativeToolTip": "Infrastructure\\Entities\\Permiso.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:27:37.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PermisosBL.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PermissionsN5\\Domain\\Business\\PermisosBL.cs",
+              "RelativeDocumentMoniker": "Domain\\Business\\PermisosBL.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PermissionsN5\\Domain\\Business\\PermisosBL.cs",
+              "RelativeToolTip": "Domain\\Business\\PermisosBL.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwDYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:29:18.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PermisosController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PermissionsN5\\PermissionsN5\\Controllers\\PermisosController.cs",
+              "RelativeDocumentMoniker": "PermissionsN5\\Controllers\\PermisosController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PermissionsN5\\PermissionsN5\\Controllers\\PermisosController.cs",
+              "RelativeToolTip": "PermissionsN5\\Controllers\\PermisosController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwCYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:25:50.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

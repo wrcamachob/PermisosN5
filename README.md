@@ -9,4 +9,4 @@ BackEnd
 This Backend is .Net Core, we can change connection string in file appsettings.json
 
 FrontEnd
-This frontend is Angular. After download just run this command --npm install --npm i sweetalert
+This frontend is Angular. After download just run this command --npm install --npm i sweetalert --ng serve -o

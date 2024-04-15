@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PermissionsN5.props" />
+</Project>

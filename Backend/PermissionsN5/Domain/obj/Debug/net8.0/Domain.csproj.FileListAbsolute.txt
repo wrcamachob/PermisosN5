@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\PermissionsN5\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\USER\source\repos\PermissionsN5\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\USER\source\repos\PermissionsN5\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\USER\source\repos\PermissionsN5\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\PermissionsN5\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\PermissionsN5\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\USER\source\repos\PermissionsN5\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PermissionsN5\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\USER\source\repos\PermissionsN5\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\USER\source\repos\PermissionsN5\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\USER\source\repos\PermissionsN5\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\USER\source\repos\PermissionsN5\Domain\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\USER\source\repos\PermissionsN5\Domain\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\USER\source\repos\PermissionsN5\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PermissionsN5\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
